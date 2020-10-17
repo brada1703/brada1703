@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=brada1703&color=1b1d25)
+
+#### I'm a full-stack developer 👻
+
+- 👔  I’m currently working at Gambling.com Group
+- 🤓  I create [tutorials about Laravel and AWS on YouTube] (https://www.youtube.com/channel/UCbn5SdZVLcnfpqmQduD13Nw/)
+- 🛠️  I work with AWS, PHP (Laravel), JS (Vue), Tailwind / Bootstrap (CSS, SCSS), Sketch, and Adobe XD
+- 📫  Reach me at [BradAhrens.com](https://www.bradahrens.com/)
+
 <!--
 **brada1703/brada1703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
