@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=brada1703&color=1b1d25)
+![](https://komarev.com/ghpvc/?username=brada1703&color=green)
 
 #### I'm a full-stack developer 👻
 
