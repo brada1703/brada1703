@@ -4,7 +4,7 @@
 
 #### I'm a full-stack developer 👻
 
-- 👔  I’m currently working for the Gambling.com Group
+- 👔  I’m currently working as a full-stack developer at Toptal
 - 🤓  I create [tutorials about Laravel and AWS on YouTube](https://www.youtube.com/c/BradleyAhrens)
 - 🛠️  I work with AWS, PHP (Laravel), JS (Vue, React), Tailwind / Bootstrap (CSS, SCSS), Sketch, and Adobe XD
 - 📫  Reach me at [BradAhrens.com](https://www.bradahrens.com/)
